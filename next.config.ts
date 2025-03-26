@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactStrictMode: true,
   trailingSlash: true,
-  basePath: "./"
+  basePath: ""
 };
 
 export default nextConfig;
